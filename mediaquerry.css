@@ -76,7 +76,7 @@ aside{
  }
 
 /* :::::::::::::::::::::::::::::::::::PHONE VIEW::::::::::::::::::::::::::::::::::::::::::::: */
- @media screen and (min-width:280px) and (max-width:767px) {
+ @media screen  and  (max-width:767px) {
     .curandlang{
         display: none;
     }
@@ -89,18 +89,17 @@ aside{
         margin-left: 1rem;
     }
 
+   
+
     .head2{
         justify-content: center;  
-        margin-left: 1rem;
+       
     }
 
     .social-media{
         display: none;
      }
 
-    .hor-item{
-      margin-left:  3em;
-    }
     
      .product1{
         width: 40%;
@@ -141,7 +140,7 @@ aside{
      } 
     
      .block2{
-        margin-left: 0em;
+        margin-right: 2rem;
      }
      .navbarbottom{
         position: sticky;
@@ -156,9 +155,9 @@ aside{
      .banner{
         margin-left: 3em;
      }
-
+    
      footer{
-        width: 100vw;
+        width: 110%;
      }
 
 
